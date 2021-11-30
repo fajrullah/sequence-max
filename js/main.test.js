@@ -8,10 +8,7 @@ const case3 = [1, 2, 7, 9, 7, 2, 1]
 
 
 const seqMax = (arr = []) => {
-  let descQ = []
-
-  let ascQ = []
-
+  
   let max = 0
 
   const leng = arr.length
